@@ -1,0 +1,6 @@
+{
+  "name": "Laboratory Equipment Tracker",
+  "description": "Web-based inventory, issue/return verification, QR asset lookup, and maintenance management system for UEM Kolkata CSE (IoT).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
